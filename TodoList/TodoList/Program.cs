@@ -4,31 +4,45 @@ internal class Program
     private static List<string> todoList = new List<string>();
     private static void Main(string[] args)
     {
+        Console.WriteLine("Hello!");
         PrintScreen();
-        var keyInput = Console.ReadKey();
-        while (!keyInput.KeyChar.Equals('E')) {
-            if (keyInput.KeyChar == 'S')
+        string keyInput;
+        do
+        {
+            keyInput = Console.ReadLine();
+        }
+        while (keyInput == null || keyInput.Length > 1);
+
+        while (!keyInput.ToUpper().Equals("E")) {
+            switch (keyInput)
             {
-                PrintTODOs();
-                BackLoop();
-            }
-            else if (keyInput.KeyChar == 'A')
-            {
-                AddTODO();
-            }
-            else if (keyInput.KeyChar == 'R') {
-                RemoveTODO();
+                case "s":
+                case "S":
+                    Console.Clear();
+                    PrintTODOs();
+                    BackLoop();
+                    break;
+                case "a":
+                case "A":
+                    Console.Clear();
+                    AddTODO();
+                    break;
+                case "r":
+                case "R":
+                    Console.Clear();
+                    RemoveTODO();
+                    break;
+                default:
+                    Console.WriteLine("Invalid input!");
+                    break;
             }
             PrintScreen();
-            keyInput = Console.ReadKey();
+            keyInput = Console.ReadLine();
         }
     }
 
     private static void PrintScreen()
     {
-        Console.Clear();
-        Console.WriteLine("Hello!");
-        Console.WriteLine();
         PrintTODOs();
         Console.WriteLine();
         Console.WriteLine("[S]ee all TODOs");
@@ -39,7 +53,6 @@ internal class Program
 
     private static void PrintTODOs()
     {
-        Console.Clear();
         for (var i = 0; i < todoList.Count; i++)
         {
             Console.WriteLine("[" + (i+1) + "] " + todoList[i]);
@@ -49,28 +62,65 @@ internal class Program
     private static void BackLoop() {
         Console.WriteLine();
         Console.WriteLine("[B]ack");
-        var keyInput = Console.ReadKey();
-        while (keyInput.KeyChar != 'B')
+        var keyInput = Console.ReadLine();
+        while (keyInput.ToUpper() !="B")
         {
-            keyInput = Console.ReadKey();
+            keyInput = Console.ReadLine();
         }
     }
 
     private static void AddTODO()
     {
-        Console.Clear();
+        Console.WriteLine("Enter the todo description.");
         var entry = Console.ReadLine();
+        if (entry == "")
+        {
+            Console.WriteLine("Description can not be empty");
+            while (entry == "")
+            {
+                entry = Console.ReadLine();
+                if (todoList.Contains(entry))
+                {
+                    Console.WriteLine("Entries must be unique");
+                    continue;
+                }
+            }
+        }
+        
         todoList.Add(entry);
     }
 
     private static void RemoveTODO()
     {
+        if(todoList.Count == 0) return;
         Console.Clear();
+        Console.WriteLine("Select the index of the Todo you wish to remove");
+        Console.WriteLine("Enter any letter to return");
         PrintTODOs();
-        var index = Console.ReadLine();
-        if (index == null) return;
-        var indexInt = int.Parse(index);
-        todoList.RemoveAt(indexInt-1);
+
+        string index;
+        int indexInt = -1;
+        do
+        {
+            index = Console.ReadLine();
+            if(int.TryParse(index,out indexInt))
+            {
+                if(indexInt > todoList.Count || indexInt < 1)
+                {
+                    Console.WriteLine("Invalid input.");
+                    index = "";
+                    continue;
+                }
+            }
+            else
+            {
+                indexInt = -1;
+            }
+        } while (index == "");
+
+        if (indexInt == -1) return;
+
+        todoList.RemoveAt(indexInt - 1);
     }
 
 }

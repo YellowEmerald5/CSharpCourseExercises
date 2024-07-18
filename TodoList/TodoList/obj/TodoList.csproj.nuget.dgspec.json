@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mathias\\source\\repos\\TodoList\\TodoList\\TodoList.csproj": {}
+    "E:\\CSharpCourseExercises\\TodoList\\TodoList\\TodoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mathias\\source\\repos\\TodoList\\TodoList\\TodoList.csproj": {
+    "E:\\CSharpCourseExercises\\TodoList\\TodoList\\TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mathias\\source\\repos\\TodoList\\TodoList\\TodoList.csproj",
+        "projectUniqueName": "E:\\CSharpCourseExercises\\TodoList\\TodoList\\TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "C:\\Users\\Mathias\\source\\repos\\TodoList\\TodoList\\TodoList.csproj",
+        "projectPath": "E:\\CSharpCourseExercises\\TodoList\\TodoList\\TodoList.csproj",
         "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mathias\\source\\repos\\TodoList\\TodoList\\obj\\",
+        "outputPath": "E:\\CSharpCourseExercises\\TodoList\\TodoList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
