@@ -1,0 +1,15 @@
+E:\CSharpCourseExercises\OOP\DiceRollGame\bin\Debug\net8.0\DiceRollGame.exe
+E:\CSharpCourseExercises\OOP\DiceRollGame\bin\Debug\net8.0\DiceRollGame.deps.json
+E:\CSharpCourseExercises\OOP\DiceRollGame\bin\Debug\net8.0\DiceRollGame.runtimeconfig.json
+E:\CSharpCourseExercises\OOP\DiceRollGame\bin\Debug\net8.0\DiceRollGame.dll
+E:\CSharpCourseExercises\OOP\DiceRollGame\bin\Debug\net8.0\DiceRollGame.pdb
+E:\CSharpCourseExercises\OOP\DiceRollGame\obj\Debug\net8.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpCourseExercises\OOP\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfoInputs.cache
+E:\CSharpCourseExercises\OOP\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfo.cs
+E:\CSharpCourseExercises\OOP\DiceRollGame\obj\Debug\net8.0\DiceRollGame.csproj.CoreCompileInputs.cache
+E:\CSharpCourseExercises\OOP\DiceRollGame\obj\Debug\net8.0\DiceRollGame.sourcelink.json
+E:\CSharpCourseExercises\OOP\DiceRollGame\obj\Debug\net8.0\DiceRollGame.dll
+E:\CSharpCourseExercises\OOP\DiceRollGame\obj\Debug\net8.0\refint\DiceRollGame.dll
+E:\CSharpCourseExercises\OOP\DiceRollGame\obj\Debug\net8.0\DiceRollGame.pdb
+E:\CSharpCourseExercises\OOP\DiceRollGame\obj\Debug\net8.0\DiceRollGame.genruntimeconfig.cache
+E:\CSharpCourseExercises\OOP\DiceRollGame\obj\Debug\net8.0\ref\DiceRollGame.dll
