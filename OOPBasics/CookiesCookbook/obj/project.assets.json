@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharpCourseExercises\\OOPBasics\\DiceRollGame\\DiceRollGame.csproj",
-      "projectName": "DiceRollGame",
-      "projectPath": "E:\\CSharpCourseExercises\\OOPBasics\\DiceRollGame\\DiceRollGame.csproj",
+      "projectUniqueName": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\CookiesCookbook.csproj",
+      "projectName": "CookiesCookbook",
+      "projectPath": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\CookiesCookbook.csproj",
       "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharpCourseExercises\\OOPBasics\\DiceRollGame\\obj\\",
+      "outputPath": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollGame", "DiceRollGame\DiceRollGame.csproj", "{DCFD036C-C864-4ADE-BE52-042BD94162CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceRollGame", "DiceRollGame\DiceRollGame.csproj", "{DCFD036C-C864-4ADE-BE52-042BD94162CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookiesCookbook", "CookiesCookbook\CookiesCookbook.csproj", "{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DCFD036C-C864-4ADE-BE52-042BD94162CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCFD036C-C864-4ADE-BE52-042BD94162CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCFD036C-C864-4ADE-BE52-042BD94162CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
