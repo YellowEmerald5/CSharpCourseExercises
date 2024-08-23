@@ -7,71 +7,80 @@ using System.Threading.Tasks;
 
 namespace CookiesCookbook
 {
-    public static class ConsoleUI
+    public class ConsoleUI: IUserInteraction
     {
-        public static List<int> RecipieInput()
+
+        private readonly IAvailableIngredients _availableIngredients;
+        public ConsoleUI(IAvailableIngredients availableIngredients) {
+            _availableIngredients = availableIngredients;
+        }
+        public List<Ingredient> InputForNewRecipie()
         {
-            var availableIngredients = AvailableIngredients.GetAvailableIngredients();
             Console.WriteLine("Create a new cookie recipie! The available ingredients are:");
-            foreach (var ingredient in availableIngredients)
+            foreach (var ingredient in _availableIngredients.GetAvailableIngredients())
             {
                 Console.WriteLine(ingredient.ListIngredient());
             }
             string input = "";
-            List<int> addedIngredients = new List<int>();
+            List<Ingredient> addedIngredients = new List<Ingredient>();
             bool isCompleted = false;
             do
             {
                 Console.WriteLine("Write the Id of an ingredient or anything if the recipie is completed");
                 input = Console.ReadLine();
-                if (input != null && input.All(Char.IsDigit))
+                if (input != null && input.All(Char.IsDigit) && input.Length == 1)
                 {
                     var result = Int32.Parse(input);
-                    if (result >= 1 && result <= availableIngredients.Count)
+                    if (result >= 1 && result <= _availableIngredients.GetAvailableIngredients().Count)
                     {
-                        addedIngredients.Add(Int32.Parse(input));
+                        addedIngredients.Add(_availableIngredients.GetIngredientByID(result));
                     }
                     else
                     {
-                        Console.WriteLine("The added number does not correspond to an ingresient!");
+                        Console.WriteLine("No ingredients added. The recipie will not be saved.");
+                        isCompleted = true;
                     }
                 }
                 else
                 {
+                    if(addedIngredients.Count == 0)
+                    {
+                        Console.WriteLine("No ingredients added. The recipie will not be saved.");
+                    }
                     isCompleted = true;
                 }
             } while (!isCompleted);
 
-            Console.WriteLine();
-            Console.WriteLine("New Recipie added:");
+            if (addedIngredients.Count > 0) {
+                Console.WriteLine();
+                Console.WriteLine("New Recipie added:");
+            }
             return addedIngredients;
         }
 
-        public static void PrintNewRecipie(CookieRecipie newRecipie)
+        public void PrintNewRecipiePreparation(CookieRecipie newRecipie)
         {
-            var availableIngredients = AvailableIngredients.GetAvailableIngredients();
-            PrintIngredients(newRecipie, availableIngredients);
+            PrintIngredients(newRecipie);
         }
 
-        public static void PrintExistingRecipies(List<CookieRecipie> recipies)
+        public void PrintExistingRecipies(List<CookieRecipie> recipies)
         {
-            var availableIngredients = AvailableIngredients.GetAvailableIngredients();
             Console.WriteLine("Existing recipies: ");
             Console.WriteLine();
 
             for (var i = 0; i < recipies.Count; i++)
             {
                 Console.WriteLine("***** " + (i + 1) + " *****");
-                PrintIngredients(recipies[i], availableIngredients);
+                PrintIngredients(recipies[i]);
                 Console.WriteLine();
             }
         }
 
-        private static void PrintIngredients(CookieRecipie recipie, List<Ingredient> ingredientList)
+        private void PrintIngredients(CookieRecipie recipie)
         {
             foreach (var ingredient in recipie.Ingredients)
             {
-                Console.WriteLine(ingredientList[ingredient - 1].Preparation());
+                Console.WriteLine(ingredient.Preparation());
             }
         }
     }

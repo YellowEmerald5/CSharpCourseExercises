@@ -6,7 +6,6 @@ namespace CookiesCookbook
     public static class FileHandler
     {
         public static void WriteToFile(List<CookieRecipie> recipies, string file) {
-
             
             StreamWriter fileWriter = new(file);
             foreach (var recipie in recipies)
@@ -32,7 +31,12 @@ namespace CookiesCookbook
                 jsonString = reader.ReadLine();
                 if (jsonString != null)
                 {
-                    recipies.Add(JsonSerializer.Deserialize<CookieRecipie>(jsonString));
+                    CookieRecipie recipie = JsonSerializer.Deserialize<CookieRecipie>(jsonString);
+                    var availableIngredients = new AvailableIngredients();
+                    for (var i = 0; i < recipie.Ingredients.Length; i++){
+                        recipie.Ingredients[i] = availableIngredients.GetIngredientByID(recipie.Ingredients[i].Id);
+                    }
+                    recipies.Add(recipie);
                 }
             } while (jsonString != null);
             reader.Close();

@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace CookiesCookbook
 {
-    public static class AvailableIngredients
+    public class AvailableIngredients : IAvailableIngredients
     {
-        private static List<Ingredient> availableIngredients = new List<Ingredient>
+        private List<Ingredient> availableIngredients = new List<Ingredient>
         {
             new Flour(),
             new Butter(),
@@ -19,6 +19,16 @@ namespace CookiesCookbook
             new Egg()
         };
 
-        public static List<Ingredient> GetAvailableIngredients() => availableIngredients;
+        public List<Ingredient> GetAvailableIngredients() => availableIngredients;
+        public Ingredient GetIngredientByID(int id){
+            Ingredient ingredient = null;
+            for (int i = 0; i < availableIngredients.Count; i++) {
+                if (availableIngredients[i].Id == id)
+                {
+                    ingredient = availableIngredients[i];
+                }
+            }
+            return ingredient;
+        }
     }
 }

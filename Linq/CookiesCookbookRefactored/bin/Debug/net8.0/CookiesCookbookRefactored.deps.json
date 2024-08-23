@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CookiesCookbookRefactored/1.0.0": {
+        "runtime": {
+          "CookiesCookbookRefactored.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CookiesCookbookRefactored/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

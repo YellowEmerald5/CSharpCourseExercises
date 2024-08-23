@@ -1,0 +1,5 @@
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.AssemblyInfoInputs.cache
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.AssemblyInfo.cs
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.csproj.CoreCompileInputs.cache
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.sourcelink.json

@@ -3,40 +3,12 @@
   "WorkspaceRootPath": "E:\\CSharpCourseExercises\\OOPBasics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\availableingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\availableingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\cookierecipiebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\cookierecipiebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\cookiescookbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\cookiescookbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\cookierecipie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\cookierecipie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\ingredients\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\ingredients\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\ingredients\\butter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\ingredients\\butter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\ingredients\\sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,16 +19,56 @@
       "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\ingredients\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\ingredients\\flour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\ingredients\\flour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\ingredients\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\ingredients\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\ingredients\\egg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\ingredients\\egg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\ingredients\\butter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\ingredients\\butter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\ingredients\\flour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\ingredients\\flour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\bin\\Debug\\net8.0\\CookieRecipiebook.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CookiesCookbook\\bin\\Debug\\net8.0\\CookieRecipiebook.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\cookierecipiebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\cookierecipiebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\availableingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\availableingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\iavailableingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\iavailableingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\cookierecipie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\cookierecipie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\cookiescookbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\cookiescookbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|e:\\csharpcourseexercises\\oopbasics\\cookiescookbook\\iuserinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB89BD88-F368-4DEA-BF73-FA7A6CB6ACA2}|CookiesCookbook\\CookiesCookbook.csproj|solutionrelative:cookiescookbook\\iuserinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,76 +78,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "CookieRecipiebook.json",
+              "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\bin\\Debug\\net8.0\\CookieRecipiebook.json",
+              "RelativeDocumentMoniker": "CookiesCookbook\\bin\\Debug\\net8.0\\CookieRecipiebook.json",
+              "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\bin\\Debug\\net8.0\\CookieRecipiebook.json",
+              "RelativeToolTip": "CookiesCookbook\\bin\\Debug\\net8.0\\CookieRecipiebook.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T12:36:45.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserInteraction.cs",
+              "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\IUserInteraction.cs",
+              "RelativeDocumentMoniker": "CookiesCookbook\\IUserInteraction.cs",
+              "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\IUserInteraction.cs",
+              "RelativeToolTip": "CookiesCookbook\\IUserInteraction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:31:37.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AvailableIngredients.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\AvailableIngredients.cs",
               "RelativeDocumentMoniker": "CookiesCookbook\\AvailableIngredients.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\AvailableIngredients.cs",
               "RelativeToolTip": "CookiesCookbook\\AvailableIngredients.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T13:58:25.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T13:58:25.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "ConsoleUI.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\ConsoleUI.cs",
               "RelativeDocumentMoniker": "CookiesCookbook\\ConsoleUI.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\ConsoleUI.cs",
               "RelativeToolTip": "CookiesCookbook\\ConsoleUI.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAuwDQAAAA/AAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwFIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T13:32:13.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T13:32:13.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "CookieRecipiebook.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\CookieRecipiebook.cs",
               "RelativeDocumentMoniker": "CookiesCookbook\\CookieRecipiebook.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\CookieRecipiebook.cs",
               "RelativeToolTip": "CookiesCookbook\\CookieRecipiebook.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAsAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T13:27:34.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T13:27:34.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FileHandler.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\FileHandler.cs",
               "RelativeDocumentMoniker": "CookiesCookbook\\FileHandler.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\FileHandler.cs",
               "RelativeToolTip": "CookiesCookbook\\FileHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T10:17:41.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "CookieRecipie.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\CookieRecipie.cs",
               "RelativeDocumentMoniker": "CookiesCookbook\\CookieRecipie.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\CookieRecipie.cs",
               "RelativeToolTip": "CookiesCookbook\\CookieRecipie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T16:13:59.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T16:13:59.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "CookiesCookbook.csproj",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\CookiesCookbook.csproj",
               "RelativeDocumentMoniker": "CookiesCookbook\\CookiesCookbook.csproj",
@@ -143,86 +175,79 @@
               "RelativeToolTip": "CookiesCookbook\\CookiesCookbook.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-26T15:49:02.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T15:49:02.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "Flour.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Flour.cs",
               "RelativeDocumentMoniker": "CookiesCookbook\\Ingredients\\Flour.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Flour.cs",
               "RelativeToolTip": "CookiesCookbook\\Ingredients\\Flour.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:48:31.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T15:48:31.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Egg.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Egg.cs",
               "RelativeDocumentMoniker": "CookiesCookbook\\Ingredients\\Egg.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Egg.cs",
               "RelativeToolTip": "CookiesCookbook\\Ingredients\\Egg.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:58:21.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T15:58:21.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Chocolate.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Chocolate.cs",
               "RelativeDocumentMoniker": "CookiesCookbook\\Ingredients\\Chocolate.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Chocolate.cs",
               "RelativeToolTip": "CookiesCookbook\\Ingredients\\Chocolate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:56:29.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T15:56:29.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Milk.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Milk.cs",
               "RelativeDocumentMoniker": "CookiesCookbook\\Ingredients\\Milk.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Milk.cs",
               "RelativeToolTip": "CookiesCookbook\\Ingredients\\Milk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:55:03.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T15:55:03.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Sugar.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Sugar.cs",
               "RelativeDocumentMoniker": "CookiesCookbook\\Ingredients\\Sugar.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Sugar.cs",
               "RelativeToolTip": "CookiesCookbook\\Ingredients\\Sugar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:54:16.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T15:54:16.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "Butter.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Butter.cs",
               "RelativeDocumentMoniker": "CookiesCookbook\\Ingredients\\Butter.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Butter.cs",
               "RelativeToolTip": "CookiesCookbook\\Ingredients\\Butter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:53:25.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T15:53:25.59Z"
             },
             {
               "$type": "Document",
@@ -232,23 +257,33 @@
               "RelativeDocumentMoniker": "CookiesCookbook\\Ingredients\\Ingredient.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Ingredients\\Ingredient.cs",
               "RelativeToolTip": "CookiesCookbook\\Ingredients\\Ingredient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:44:51.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T15:44:51.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Program.cs",
               "RelativeDocumentMoniker": "CookiesCookbook\\Program.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\Program.cs",
               "RelativeToolTip": "CookiesCookbook\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:43:52.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T15:43:52.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAvailableIngredients.cs",
+              "DocumentMoniker": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\IAvailableIngredients.cs",
+              "RelativeDocumentMoniker": "CookiesCookbook\\IAvailableIngredients.cs",
+              "ToolTip": "E:\\CSharpCourseExercises\\OOPBasics\\CookiesCookbook\\IAvailableIngredients.cs",
+              "RelativeToolTip": "CookiesCookbook\\IAvailableIngredients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:57:59.729Z"
             }
           ]
         }

@@ -7,25 +7,31 @@ using System.Threading.Tasks;
 
 namespace CookiesCookbook
 {
-    public static class CookieRecipiebook
+    public class CookieRecipiebook
     {
+        private readonly IUserInteraction _userInteraction;
+
+        public CookieRecipiebook(IUserInteraction userInteraction)
+        {
+            _userInteraction = userInteraction;
+        }
 
         private static string filePath = "CookieRecipiebook.json";
-        public static void Run()
+        public void Run()
         {
             var recipies = FileHandler.ReadFromFile(filePath);
-
             if (recipies.Count > 0)
             {
-                ConsoleUI.PrintExistingRecipies(recipies);
+                _userInteraction.PrintExistingRecipies(recipies);
             }
 
-            var addedIngredients = ConsoleUI.RecipieInput();
-            var newRecipie = new CookieRecipie([.. addedIngredients]);
-            ConsoleUI.PrintNewRecipie(newRecipie);
-            recipies.Add(newRecipie);
-            FileHandler.WriteToFile(recipies, filePath);
-            Console.ReadKey();
+            var addedIngredients = _userInteraction.InputForNewRecipie();
+            if (addedIngredients.Count > 0) {
+                var newRecipie = new CookieRecipie([.. addedIngredients]);
+                _userInteraction.PrintNewRecipiePreparation(newRecipie);
+                recipies.Add(newRecipie);
+                FileHandler.WriteToFile(recipies, filePath);
+            }
         }
 
         

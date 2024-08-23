@@ -1,0 +1,15 @@
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\bin\Debug\net8.0\CookiesCookbook.exe
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\bin\Debug\net8.0\CookiesCookbook.deps.json
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\bin\Debug\net8.0\CookiesCookbook.runtimeconfig.json
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\bin\Debug\net8.0\CookiesCookbook.dll
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\bin\Debug\net8.0\CookiesCookbook.pdb
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\obj\Debug\net8.0\CookiesCookbook.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\obj\Debug\net8.0\CookiesCookbook.AssemblyInfoInputs.cache
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\obj\Debug\net8.0\CookiesCookbook.AssemblyInfo.cs
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\obj\Debug\net8.0\CookiesCookbook.csproj.CoreCompileInputs.cache
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\obj\Debug\net8.0\CookiesCookbook.sourcelink.json
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\obj\Debug\net8.0\CookiesCookbook.dll
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\obj\Debug\net8.0\refint\CookiesCookbook.dll
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\obj\Debug\net8.0\CookiesCookbook.pdb
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\obj\Debug\net8.0\CookiesCookbook.genruntimeconfig.cache
+E:\CSharpCourseExercises\OOPBasics\CookiesCookbook\obj\Debug\net8.0\ref\CookiesCookbook.dll

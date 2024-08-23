@@ -8,8 +8,8 @@ namespace CookiesCookbook.Ingredients
 {
     public class Sugar : Ingredient
     {
-        public int Id { get; } = 3;
-        public string Name { get; } = "Sugar";
+        public override int Id { get; init; } = 3;
+        public override string Name { get; } = "Sugar";
         public string Instruction { get; } = "Sugar. Add to dry ingredients.";
 
         public Sugar() { }

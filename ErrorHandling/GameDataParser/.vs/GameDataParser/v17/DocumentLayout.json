@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|e:\\csharpcourseexercises\\errorhandling\\gamedataparser\\gamedataparser\\gamedataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|solutionrelative:gamedataparser\\gamedataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|e:\\csharpcourseexercises\\errorhandling\\gamedataparser\\gamedataparser\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|solutionrelative:gamedataparser\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|e:\\csharpcourseexercises\\errorhandling\\gamedataparser\\gamedataparser\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|solutionrelative:gamedataparser\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|e:\\csharpcourseexercises\\errorhandling\\gamedataparser\\gamedataparser\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|solutionrelative:gamedataparser\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|e:\\csharpcourseexercises\\errorhandling\\gamedataparser\\gamedataparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|solutionrelative:gamedataparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|e:\\csharpcourseexercises\\errorhandling\\gamedataparser\\gamedataparser\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|solutionrelative:gamedataparser\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|e:\\csharpcourseexercises\\errorhandling\\gamedataparser\\gamedataparser\\userinteractioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B1C694-B6E6-41AC-9FB7-7219E4C475C7}|GameDataParser\\GameDataParserApp.csproj|solutionrelative:gamedataparser\\userinteractioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\Logger.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\Logger.cs",
+              "ToolTip": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\Logger.cs",
+              "RelativeToolTip": "GameDataParser\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:32:04.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\Game.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\Game.cs",
+              "ToolTip": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\Game.cs",
+              "RelativeToolTip": "GameDataParser\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:23:07.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInteractionI.cs",
+              "DocumentMoniker": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\UserInteractionI.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\UserInteractionI.cs",
+              "ToolTip": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\UserInteractionI.cs",
+              "RelativeToolTip": "GameDataParser\\UserInteractionI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:32:43.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleUI.cs",
+              "DocumentMoniker": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\ConsoleUI.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\ConsoleUI.cs",
+              "ToolTip": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\ConsoleUI.cs",
+              "RelativeToolTip": "GameDataParser\\ConsoleUI.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:31:45.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameDataParser.cs",
+              "DocumentMoniker": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\GameDataParser.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\GameDataParser.cs",
+              "ToolTip": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\GameDataParser.cs",
+              "RelativeToolTip": "GameDataParser\\GameDataParser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:30:09.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\FileHandler.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\FileHandler.cs",
+              "ToolTip": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\FileHandler.cs",
+              "RelativeToolTip": "GameDataParser\\FileHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAewBwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:22:41.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\Program.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\Program.cs",
+              "ToolTip": "E:\\CSharpCourseExercises\\ErrorHandling\\GameDataParser\\GameDataParser\\Program.cs",
+              "RelativeToolTip": "GameDataParser\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:20:06.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

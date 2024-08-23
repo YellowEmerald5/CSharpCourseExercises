@@ -1,0 +1,100 @@
+07.08.2024 13.47.20
+Could not find file 'E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\bin\Debug\net8.0\hei'.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at GameDataParserApp.FileHandler.ReadFromFile(String file) in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\FileHandler.cs:line 21
+   at GameDataParserApp.GameDataParser.Run() in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\GameDataParser.cs:line 28
+07.08.2024 13.47.28
+Could not find file 'E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\bin\Debug\net8.0\game.json'.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at GameDataParserApp.FileHandler.ReadFromFile(String file) in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\FileHandler.cs:line 21
+   at GameDataParserApp.GameDataParser.Run() in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\GameDataParser.cs:line 28
+07.08.2024 13.48.03
+[
+   at GameDataParserApp.FileHandler.ReadFromFile(String file) in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\FileHandler.cs:line 34
+   at GameDataParserApp.GameDataParser.Run() in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\GameDataParser.cs:line 28
+07.08.2024 13.48.04
+[
+   at GameDataParserApp.FileHandler.ReadFromFile(String file) in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\FileHandler.cs:line 34
+   at GameDataParserApp.GameDataParser.Run() in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\GameDataParser.cs:line 28
+07.08.2024 13.48.04
+[
+   at GameDataParserApp.FileHandler.ReadFromFile(String file) in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\FileHandler.cs:line 34
+   at GameDataParserApp.GameDataParser.Run() in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\GameDataParser.cs:line 28
+07.08.2024 13.48.05
+[
+   at GameDataParserApp.FileHandler.ReadFromFile(String file) in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\FileHandler.cs:line 34
+   at GameDataParserApp.GameDataParser.Run() in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\GameDataParser.cs:line 28
+07.08.2024 13.48.05
+[
+   at GameDataParserApp.FileHandler.ReadFromFile(String file) in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\FileHandler.cs:line 34
+   at GameDataParserApp.GameDataParser.Run() in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\GameDataParser.cs:line 28
+07.08.2024 15.05.13
+[
+  {
+    "Title": "Stardew Valley",
+    "ReleaseYear": 2016,
+    "Rating": 4.9
+  }
+  {
+    "Title": "Frostpunk",
+    "ReleaseYear": 2017,
+    "Rating": 4.7
+  },
+  {
+    "Title": "Oxygen Not Included",
+    "ReleaseYear": 2017,
+    "Rating": 4.8
+  },
+  {
+    "Title": "Red Dead Redemtpion II",
+    "ReleaseYear": 2018,
+    "Rating": 4.8
+  },
+  {
+    "Title": "Portal 2",
+    "ReleaseYear": 2011,
+    "Rating": 4.8
+  }
+]
+   at GameDataParserApp.FileHandler.ReadFromFile(String file) in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\FileHandler.cs:line 34
+   at GameDataParserApp.GameDataParser.Run() in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\GameDataParser.cs:line 28
+[07.08.2024 15.37.53]
+[
+  {
+    "Title": "Stardew Valley",
+    "ReleaseYear": 2016,
+    "Rating": 4.9
+  }
+  {
+    "Title": "Frostpunk",
+    "ReleaseYear": 2017,
+    "Rating": 4.7
+  },
+  {
+    "Title": "Oxygen Not Included",
+    "ReleaseYear": 2017,
+    "Rating": 4.8
+  },
+  {
+    "Title": "Red Dead Redemtpion II",
+    "ReleaseYear": 2018,
+    "Rating": 4.8
+  },
+  {
+    "Title": "Portal 2",
+    "ReleaseYear": 2011,
+    "Rating": 4.8
+  }
+]
+   at GameDataParserApp.FileHandler.ReadFromFile(String file) in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\FileHandler.cs:line 34
+   at GameDataParserApp.GameDataParser.Run() in E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\GameDataParser.cs:line 28

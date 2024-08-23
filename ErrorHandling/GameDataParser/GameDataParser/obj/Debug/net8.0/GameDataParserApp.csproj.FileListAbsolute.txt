@@ -1,0 +1,15 @@
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParserApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParserApp.AssemblyInfoInputs.cache
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParserApp.AssemblyInfo.cs
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParserApp.csproj.CoreCompileInputs.cache
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParserApp.sourcelink.json
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParserApp.exe
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParserApp.deps.json
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParserApp.runtimeconfig.json
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParserApp.dll
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParserApp.pdb
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParserApp.dll
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\refint\GameDataParserApp.dll
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParserApp.pdb
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParserApp.genruntimeconfig.cache
+E:\CSharpCourseExercises\ErrorHandling\GameDataParser\GameDataParser\obj\Debug\net8.0\ref\GameDataParserApp.dll

@@ -1,0 +1,15 @@
+E:\CSharpCourseExercises\Generics\Generics\bin\Debug\net8.0\CustomCache.exe
+E:\CSharpCourseExercises\Generics\Generics\bin\Debug\net8.0\CustomCache.deps.json
+E:\CSharpCourseExercises\Generics\Generics\bin\Debug\net8.0\CustomCache.runtimeconfig.json
+E:\CSharpCourseExercises\Generics\Generics\bin\Debug\net8.0\CustomCache.dll
+E:\CSharpCourseExercises\Generics\Generics\bin\Debug\net8.0\CustomCache.pdb
+E:\CSharpCourseExercises\Generics\Generics\obj\Debug\net8.0\CustomCache.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpCourseExercises\Generics\Generics\obj\Debug\net8.0\CustomCache.AssemblyInfoInputs.cache
+E:\CSharpCourseExercises\Generics\Generics\obj\Debug\net8.0\CustomCache.AssemblyInfo.cs
+E:\CSharpCourseExercises\Generics\Generics\obj\Debug\net8.0\CustomCache.csproj.CoreCompileInputs.cache
+E:\CSharpCourseExercises\Generics\Generics\obj\Debug\net8.0\CustomCache.sourcelink.json
+E:\CSharpCourseExercises\Generics\Generics\obj\Debug\net8.0\CustomCache.dll
+E:\CSharpCourseExercises\Generics\Generics\obj\Debug\net8.0\refint\CustomCache.dll
+E:\CSharpCourseExercises\Generics\Generics\obj\Debug\net8.0\CustomCache.pdb
+E:\CSharpCourseExercises\Generics\Generics\obj\Debug\net8.0\CustomCache.genruntimeconfig.cache
+E:\CSharpCourseExercises\Generics\Generics\obj\Debug\net8.0\ref\CustomCache.dll

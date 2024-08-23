@@ -4,6 +4,8 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        CookieRecipiebook.Run();
+        var i = new CookieRecipiebook(new ConsoleUI(new AvailableIngredients()));
+        i.Run();
+        Console.ReadLine();
     }
 }
