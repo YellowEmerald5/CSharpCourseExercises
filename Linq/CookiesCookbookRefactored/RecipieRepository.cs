@@ -33,8 +33,8 @@ namespace CookiesCookbookRefactored
 
         public void WriteRecipiesToFile(string fileName)
         {
-            var recipiesAsJsonStrings = Repository.Select(recipie => JsonSerializer.Serialize(recipie)).ToList();
-            FileHandler.WriteToFile(recipiesAsJsonStrings, fileName);
+            string recipieAsJsonStrings = JsonSerializer.Serialize(Repository.Last());
+            FileHandler.WriteToFile(recipieAsJsonStrings, fileName);
         }
     }
 }

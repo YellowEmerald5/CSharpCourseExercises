@@ -6,11 +6,11 @@ namespace CookiesCookbookRefactored
 {
     public static class FileHandler
     {
-        public static void WriteToFile(List<string> objectsAsJsonStrings, string file)
+        public static void WriteToFile(string objectAsJsonStrings, string file)
         {
 
-            StreamWriter fileWriter = new(file);
-            fileWriter.Write(string.Join(Environment.NewLine,objectsAsJsonStrings));
+            StreamWriter fileWriter = new(file,true);
+            fileWriter.Write(string.Join(Environment.NewLine,objectAsJsonStrings));
             fileWriter.Close();
         }
         public static List<string> ReadFromFile(string file)

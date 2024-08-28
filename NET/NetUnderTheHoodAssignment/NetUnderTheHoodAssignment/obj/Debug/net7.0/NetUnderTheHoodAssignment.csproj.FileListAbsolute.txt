@@ -1,0 +1,15 @@
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.AssemblyInfoInputs.cache
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.AssemblyInfo.cs
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.csproj.CoreCompileInputs.cache
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.sourcelink.json
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.exe
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.deps.json
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.runtimeconfig.json
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.dll
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\bin\Debug\net7.0\NetUnderTheHoodAssignment.pdb
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.dll
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\refint\NetUnderTheHoodAssignment.dll
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.pdb
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\NetUnderTheHoodAssignment.genruntimeconfig.cache
+E:\CSharpCourseExercises\NET\NetUnderTheHoodAssignment\NetUnderTheHoodAssignment\obj\Debug\net7.0\ref\NetUnderTheHoodAssignment.dll
