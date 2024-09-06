@@ -1,0 +1,15 @@
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\obj\Debug\net8.0\StarWarsPlanetStats.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\obj\Debug\net8.0\StarWarsPlanetStats.AssemblyInfoInputs.cache
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\obj\Debug\net8.0\StarWarsPlanetStats.AssemblyInfo.cs
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\obj\Debug\net8.0\StarWarsPlanetStats.csproj.CoreCompileInputs.cache
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\obj\Debug\net8.0\StarWarsPlanetStats.sourcelink.json
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\bin\Debug\net8.0\StarWarsPlanetStats.exe
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\bin\Debug\net8.0\StarWarsPlanetStats.deps.json
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\bin\Debug\net8.0\StarWarsPlanetStats.runtimeconfig.json
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\bin\Debug\net8.0\StarWarsPlanetStats.dll
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\bin\Debug\net8.0\StarWarsPlanetStats.pdb
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\obj\Debug\net8.0\StarWarsPlanetStats.dll
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\obj\Debug\net8.0\refint\StarWarsPlanetStats.dll
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\obj\Debug\net8.0\StarWarsPlanetStats.pdb
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\obj\Debug\net8.0\StarWarsPlanetStats.genruntimeconfig.cache
+E:\CSharpCourseExercises\AdvancedTypes\StarWarsPlanetStats\obj\Debug\net8.0\ref\StarWarsPlanetStats.dll

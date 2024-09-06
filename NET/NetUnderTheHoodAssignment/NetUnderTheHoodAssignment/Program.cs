@@ -3,6 +3,7 @@ using CsvDataAccess.Interface;
 using CsvDataAccess.OldSolution;
 using CsvDataAccess.NewSolution;
 using CsvDataAccess.PerformanceTesting;
+using System.Reflection.Metadata;
 
 string filePath = "sampleData.csv";
 var csvData = new CsvReader().Read(filePath);
