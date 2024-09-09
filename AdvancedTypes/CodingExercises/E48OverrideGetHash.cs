@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace CodingExercises
 {
-    public struct Time
+    public struct TimeX
     {
         public int Hour { get; }
         public int Minute { get; }
 
-        public Time(int hour, int minute)
+        public TimeX(int hour, int minute)
         {
             if (hour < 0 || hour > 23)
             {
@@ -30,12 +30,12 @@ namespace CodingExercises
         public override string ToString() =>
             $"{Hour.ToString("00")}:{Minute.ToString("00")}";
 
-        public static bool operator ==(Time left, Time right)
+        public static bool operator ==(TimeX left, TimeX right)
         {
             return left.Equals(left.Hour == right.Hour && left.Minute == right.Minute);
         }
 
-        public static bool operator !=(Time left, Time right)
+        public static bool operator !=(TimeX left, TimeX right)
         {
             return left.Equals(!(left.Hour == right.Hour && left.Minute == right.Minute));
         }

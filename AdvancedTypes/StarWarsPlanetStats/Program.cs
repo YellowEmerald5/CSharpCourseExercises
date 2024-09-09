@@ -1,5 +1,17 @@
 ﻿using StarWarsPlanetStats;
+using StarWarsPlanetStats.APIInteraction;
+using StarWarsPlanetStats.UserInterface;
 
-var json = APIReader.ReadFromAPI("https://swapi.dev", "api/planets").Result;
-Console.WriteLine(json);
-Console.ReadKey();
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        var apiRepo = new StarWarsAPIRepository(new APIReader());
+        while (!apiRepo.RepositoryReady)
+        {
+
+        }
+        var application = new StarWarsPlanetStatsApplication(apiRepo, new ConsoleUI());
+        application.Run();
+    }
+}

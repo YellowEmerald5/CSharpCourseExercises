@@ -1,14 +1,15 @@
-﻿using System;
+﻿using StarWarsPlanetsStats.ApiDataAccess;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StarWarsPlanetStats
+namespace StarWarsPlanetStats.APIInteraction
 {
-    public static class APIReader
+    public class APIReader : IApiDataReader
     {
-        public static async Task<string> ReadFromAPI(string baseAddress, string requestUri)
+        public async Task<string> Read(string baseAddress, string requestUri)
         {
             using var client = new HttpClient();
             client.BaseAddress = new Uri(baseAddress);

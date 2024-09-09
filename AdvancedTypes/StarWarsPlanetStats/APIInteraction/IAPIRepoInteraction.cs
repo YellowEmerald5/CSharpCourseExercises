@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StarWarsPlanetStats
+namespace StarWarsPlanetStats.APIInteraction
 {
-    public interface IAPIRepoInteraction<T>
+    public interface IAPIRepoInteraction
     {
         public bool IsEmpty();
 
-        public T? GetItem(string nameOfItem);
-
         public string SearchFor(string searchString);
+
+        public string GetRepositoryAsString();
     }
 }
