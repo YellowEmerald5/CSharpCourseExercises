@@ -8,16 +8,10 @@ using StarWarsPlanetStats.UserInterface;
 
 namespace StarWarsPlanetStats
 {
-    public class StarWarsPlanetStatsApplication
+    public class StarWarsPlanetStatsApplication(IAPIRepoInteraction repo, IUserInterface ui)
     {
-        private IAPIRepoInteraction repoInteraction;
-        private IUserInterface userInterface;
-
-        public StarWarsPlanetStatsApplication(IAPIRepoInteraction repo, IUserInterface ui)
-        {
-            repoInteraction = repo;
-            userInterface = ui;
-        }
+        private readonly IAPIRepoInteraction repoInteraction = repo;
+        private readonly IUserInterface userInterface = ui;
 
         public void Run()
         {
@@ -25,8 +19,7 @@ namespace StarWarsPlanetStats
             string planetsAsStringTable = repoInteraction.GetRepositoryAsString();
             userInterface.DisplayPlanetDataForAllPLanets(planetsAsStringTable);
             string searchString = userInterface.GetSearchString();
-            string result = repoInteraction.SearchFor(searchString);
-            userInterface.DisplaySearchData(result);
+            repoInteraction.SearchFor(searchString);
         }
     }
 }

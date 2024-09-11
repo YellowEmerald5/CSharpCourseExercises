@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StarWarsPlanetStats.PlanetObjects
 {
-    public class StarWarsPlanet
+    public readonly record struct StarWarsPlanet
     {
         public string Name { get; init; }
         public long? Diameter { get; init; }
@@ -15,6 +15,7 @@ namespace StarWarsPlanetStats.PlanetObjects
 
         public StarWarsPlanet(string name, long? diameter, long? surfaceWater, long? population)
         {
+            ArgumentNullException.ThrowIfNull(name);
             Name = name;
             Diameter = diameter;
             SurfaceWater = surfaceWater;
@@ -38,7 +39,7 @@ namespace StarWarsPlanetStats.PlanetObjects
             {
                 population = Population.ToString();
             }
-            string result = $"{Name.PadRight(15)}|{diameter.PadRight(15)}|{surfaceWater.PadRight(15)}|{population.PadRight(15)}|";
+            string result = $"{Name,-15}|{diameter,-15}|{surfaceWater,-15}|{population,-15}|";
             return result;
         }
     }

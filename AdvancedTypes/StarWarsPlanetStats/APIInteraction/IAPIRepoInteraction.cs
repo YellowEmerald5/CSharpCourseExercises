@@ -10,7 +10,7 @@ namespace StarWarsPlanetStats.APIInteraction
     {
         public bool IsEmpty();
 
-        public string SearchFor(string searchString);
+        public void SearchFor(string searchString);
 
         public string GetRepositoryAsString();
     }

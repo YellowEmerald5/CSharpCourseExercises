@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\CSharpCourseExercises\\AdvancedTypes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\apiinteraction\\starwarsapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\apiinteraction\\starwarsapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\planetobjects\\starwarsplanetconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\planetobjects\\starwarsplanetconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\planetobjects\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\planetobjects\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\planetobjects\\starwarsplanet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\planetobjects\\starwarsplanet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\apiinteraction\\iapirepointeraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\apiinteraction\\iapirepointeraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\starwarsplanetstatsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\starwarsplanetstats.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\starwarsplanetstats.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\planetobjects\\starwarsplanetconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\planetobjects\\starwarsplanetconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\apiinteraction\\apireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\apiinteraction\\apireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\userinterface\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,14 +39,6 @@
       "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\userinterface\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\apiinteraction\\starwarsapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\apiinteraction\\starwarsapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\apiinteraction\\apireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\apiinteraction\\apireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\apiinteraction\\iapidatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\apiinteraction\\iapidatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,12 +47,8 @@
       "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\apiinteraction\\mockstarwarsapidatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\planetobjects\\starwarsplanet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\planetobjects\\starwarsplanet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\planetobjects\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\planetobjects\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|e:\\csharpcourseexercises\\advancedtypes\\starwarsplanetstats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9833F27E-E155-44B0-8A61-F93E21E5301A}|StarWarsPlanetStats\\StarWarsPlanetStats.csproj|solutionrelative:starwarsplanetstats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,7 +68,7 @@
               "RelativeDocumentMoniker": "StarWarsPlanetStats\\APIInteraction\\MockStarWarsApiDataReader.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\APIInteraction\\MockStarWarsApiDataReader.cs",
               "RelativeToolTip": "StarWarsPlanetStats\\APIInteraction\\MockStarWarsApiDataReader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwAIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T08:57:39.305Z",
               "EditorCaption": ""
@@ -92,33 +88,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StarWarsPlanetStats",
-              "DocumentMoniker": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\StarWarsPlanetStats.csproj",
-              "RelativeDocumentMoniker": "StarWarsPlanetStats\\StarWarsPlanetStats.csproj",
-              "ToolTip": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\StarWarsPlanetStats.csproj",
-              "RelativeToolTip": "StarWarsPlanetStats\\StarWarsPlanetStats.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-09T08:53:31.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "StarWarsPlanetStatsApplication.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\StarWarsPlanetStatsApplication.cs",
               "RelativeDocumentMoniker": "StarWarsPlanetStats\\StarWarsPlanetStatsApplication.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\StarWarsPlanetStatsApplication.cs",
               "RelativeToolTip": "StarWarsPlanetStats\\StarWarsPlanetStatsApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwBUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T12:33:57.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ConsoleUI.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\UserInterface\\ConsoleUI.cs",
               "RelativeDocumentMoniker": "StarWarsPlanetStats\\UserInterface\\ConsoleUI.cs",
@@ -131,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IUserInterface.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\UserInterface\\IUserInterface.cs",
               "RelativeDocumentMoniker": "StarWarsPlanetStats\\UserInterface\\IUserInterface.cs",
@@ -144,72 +127,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Results.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\PlanetObjects\\Results.cs",
               "RelativeDocumentMoniker": "StarWarsPlanetStats\\PlanetObjects\\Results.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\PlanetObjects\\Results.cs",
               "RelativeToolTip": "StarWarsPlanetStats\\PlanetObjects\\Results.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABNAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewB4AAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T14:41:54.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "StarWarsPlanet.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\PlanetObjects\\StarWarsPlanet.cs",
               "RelativeDocumentMoniker": "StarWarsPlanetStats\\PlanetObjects\\StarWarsPlanet.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\PlanetObjects\\StarWarsPlanet.cs",
               "RelativeToolTip": "StarWarsPlanetStats\\PlanetObjects\\StarWarsPlanet.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAASwBIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T14:40:54.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StarWarsPlanetConverter.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\PlanetObjects\\StarWarsPlanetConverter.cs",
               "RelativeDocumentMoniker": "StarWarsPlanetStats\\PlanetObjects\\StarWarsPlanetConverter.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\PlanetObjects\\StarWarsPlanetConverter.cs",
               "RelativeToolTip": "StarWarsPlanetStats\\PlanetObjects\\StarWarsPlanetConverter.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCoAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T14:10:09.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "IAPIRepoInteraction.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\APIInteraction\\IAPIRepoInteraction.cs",
               "RelativeDocumentMoniker": "StarWarsPlanetStats\\APIInteraction\\IAPIRepoInteraction.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\APIInteraction\\IAPIRepoInteraction.cs",
               "RelativeToolTip": "StarWarsPlanetStats\\APIInteraction\\IAPIRepoInteraction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T12:35:04.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "StarWarsAPIRepository.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\APIInteraction\\StarWarsAPIRepository.cs",
               "RelativeDocumentMoniker": "StarWarsPlanetStats\\APIInteraction\\StarWarsAPIRepository.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\APIInteraction\\StarWarsAPIRepository.cs",
               "RelativeToolTip": "StarWarsPlanetStats\\APIInteraction\\StarWarsAPIRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAABcAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAIAwwEgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T12:34:36.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "APIReader.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\APIInteraction\\APIReader.cs",
               "RelativeDocumentMoniker": "StarWarsPlanetStats\\APIInteraction\\APIReader.cs",
@@ -222,13 +205,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\Program.cs",
               "RelativeDocumentMoniker": "StarWarsPlanetStats\\Program.cs",
               "ToolTip": "E:\\CSharpCourseExercises\\AdvancedTypes\\StarWarsPlanetStats\\Program.cs",
               "RelativeToolTip": "StarWarsPlanetStats\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T12:33:15.972Z",
               "EditorCaption": ""

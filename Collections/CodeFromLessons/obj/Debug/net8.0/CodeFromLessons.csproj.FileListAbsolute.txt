@@ -1,0 +1,15 @@
+E:\CSharpCourseExercises\Collections\CodeFromLessons\bin\Debug\net8.0\CodeFromLessons.exe
+E:\CSharpCourseExercises\Collections\CodeFromLessons\bin\Debug\net8.0\CodeFromLessons.deps.json
+E:\CSharpCourseExercises\Collections\CodeFromLessons\bin\Debug\net8.0\CodeFromLessons.runtimeconfig.json
+E:\CSharpCourseExercises\Collections\CodeFromLessons\bin\Debug\net8.0\CodeFromLessons.dll
+E:\CSharpCourseExercises\Collections\CodeFromLessons\bin\Debug\net8.0\CodeFromLessons.pdb
+E:\CSharpCourseExercises\Collections\CodeFromLessons\obj\Debug\net8.0\CodeFromLessons.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpCourseExercises\Collections\CodeFromLessons\obj\Debug\net8.0\CodeFromLessons.AssemblyInfoInputs.cache
+E:\CSharpCourseExercises\Collections\CodeFromLessons\obj\Debug\net8.0\CodeFromLessons.AssemblyInfo.cs
+E:\CSharpCourseExercises\Collections\CodeFromLessons\obj\Debug\net8.0\CodeFromLessons.csproj.CoreCompileInputs.cache
+E:\CSharpCourseExercises\Collections\CodeFromLessons\obj\Debug\net8.0\CodeFromLessons.sourcelink.json
+E:\CSharpCourseExercises\Collections\CodeFromLessons\obj\Debug\net8.0\CodeFromLessons.dll
+E:\CSharpCourseExercises\Collections\CodeFromLessons\obj\Debug\net8.0\refint\CodeFromLessons.dll
+E:\CSharpCourseExercises\Collections\CodeFromLessons\obj\Debug\net8.0\CodeFromLessons.pdb
+E:\CSharpCourseExercises\Collections\CodeFromLessons\obj\Debug\net8.0\CodeFromLessons.genruntimeconfig.cache
+E:\CSharpCourseExercises\Collections\CodeFromLessons\obj\Debug\net8.0\ref\CodeFromLessons.dll

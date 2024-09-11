@@ -14,12 +14,12 @@ namespace StarWarsPlanetStats.APIInteraction
     public class StarWarsAPIRepository : IAPIRepoInteraction
     {
         private List<StarWarsPlanet> Planets { get; init; }
-        private string stringRepresentationOfRepo = "";
+        private readonly string stringRepresentationOfRepo = "";
         public bool RepositoryReady { get; init; }
 
         private const string BaseAddress = "https://swapi.dev";
         private const string RequestUri = "api/planets";
-        private Dictionary<string, Func<StarWarsPlanet, Tuple<long?, string>>> PossibleActions = new Dictionary<string, Func<StarWarsPlanet, Tuple<long?, string>>>();
+        private readonly Dictionary<string, Func<StarWarsPlanet, long?>> PossibleActions = [];
 
         public StarWarsAPIRepository(IApiDataReader reader)
         {
@@ -28,15 +28,15 @@ namespace StarWarsPlanetStats.APIInteraction
             {
                 json = reader.Read(BaseAddress, RequestUri).Result;
             }
-            catch (AggregateException ex)
+            catch (AggregateException)
             {
                 json = new MockStarWarsApiDataReader().Read(BaseAddress, RequestUri).Result;
             }
             Planets = StarWarsPlanetConverter.Convert(json);
             RepositoryReady = true;
-            Func<StarWarsPlanet, Tuple<long?, string>> populationSelector = planet => new Tuple<long?, string>(planet.Population, planet.Name);
-            Func<StarWarsPlanet, Tuple<long?, string>> diameterSelector = planet => new Tuple<long?, string>(planet.Diameter, planet.Name);
-            Func<StarWarsPlanet, Tuple<long?, string>> surfaceWaterSelector = planet => new Tuple<long?, string>(planet.SurfaceWater, planet.Name);
+            static long? populationSelector(StarWarsPlanet planet) => planet.Population;
+            static long? diameterSelector(StarWarsPlanet planet) => planet.Diameter;
+            static long? surfaceWaterSelector(StarWarsPlanet planet) => planet.SurfaceWater;
             PossibleActions.Add("population", populationSelector);
             PossibleActions.Add("diameter", diameterSelector);
             PossibleActions.Add("surface water", surfaceWaterSelector);
@@ -48,51 +48,29 @@ namespace StarWarsPlanetStats.APIInteraction
             return false;
         }
 
-        public string SearchFor(string searchString)
+        public void SearchFor(string searchString)
         {
-            long maxNumber = 0;
-            long minNumber = 0;
-            string maxPlanetName = string.Empty;
-            string minPlanetName = string.Empty;
-            bool firstCheck = true;
             string searchStringLower = searchString.ToLower();
-            if (PossibleActions.ContainsKey(searchStringLower))
+            var action = PossibleActions.TryGetValue(searchStringLower, out Func<StarWarsPlanet, long?>? selectorFunction);
+            if (action && selectorFunction != null)
             {
-                var function = PossibleActions[searchStringLower];
-                foreach (var item in Planets)
-                {
-                    var values = function(item);
-                    var number = values.Item1;
-                    var name = values.Item2;
-                    if (number != null)
-                    {
-                        if (firstCheck)
-                        {
-                            maxNumber = number.Value;
-                            minNumber = number.Value;
-                            maxPlanetName = name;
-                            minPlanetName = name;
-                            firstCheck = false;
-                        }
-
-                        if (number.Value > maxNumber)
-                        {
-                            maxNumber = number.Value;
-                            maxPlanetName = name;
-                        }
-                        if (number.Value < minNumber)
-                        {
-                            minNumber = number.Value;
-                            minPlanetName = name;
-                        }
-                    }
-                }
+                var planetMaxValue = Planets.MaxBy(selectorFunction);
+                var planetMinValue = Planets.MinBy(selectorFunction);
+                ShowStatistics("max", planetMaxValue, searchString, selectorFunction);
+                ShowStatistics("min", planetMinValue, searchString, selectorFunction);
+                Console.ReadKey();
             }
-            else return "";
+            else
+            {
+                Console.WriteLine("Invalid action");
+                Console.ReadKey();
+            }
+        }
 
-            string max = $"Max {searchString} is {maxNumber} (planet : {maxPlanetName})";
-            string min = $"Min {searchString} is {minNumber} (planet : {minPlanetName})";
-            return max + "\n" + min;
+        public static void ShowStatistics(string descriptor, StarWarsPlanet selectedPlanet, string propertyName, Func<StarWarsPlanet,long?> propertySelector)
+        {    
+            string result = $"{descriptor} {propertyName} is {propertySelector(selectedPlanet)} (planet: {selectedPlanet.Name})";
+            Console.WriteLine(result);
         }
 
         public string GetRepositoryAsString()

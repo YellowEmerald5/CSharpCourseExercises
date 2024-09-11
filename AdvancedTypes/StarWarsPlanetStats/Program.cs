@@ -4,7 +4,7 @@ using StarWarsPlanetStats.UserInterface;
 
 internal class Program
 {
-    private static void Main(string[] args)
+    private static void Main()
     {
         var apiRepo = new StarWarsAPIRepository(new APIReader());
         while (!apiRepo.RepositoryReady)
